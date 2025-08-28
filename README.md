@@ -1,4 +1,4 @@
-# Project Laravel Filament
+# Project Test PT. Fukuryo Indonesia
 
 Project ini menggunakan **Laravel** dan **Filament Admin Panel** untuk mengelola data Master (Author, Category, dan Book).
 
