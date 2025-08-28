@@ -9,8 +9,8 @@ Project ini menggunakan **Laravel** dan **Filament Admin Panel** untuk mengelola
 1. **Clone Repository**
 
     ```bash
-    git clone https://github.com/username/repo-name.git
-    cd repo-name
+    git clone https://github.com/Anamkhoirull001/fukuryo-admin-panel
+    cd fukuryo-admin-panel
     ```
 
 2. **Install Dependency**
@@ -71,4 +71,3 @@ Project ini menggunakan **Laravel** dan **Filament Admin Panel** untuk mengelola
 ## 📌 Catatan
 
 -   Pastikan sudah menginstal **PHP >= 8.1**, **Composer**, **Node.js**, dan **NPM**.
--   Akses panel Filament di `/admin` dengan akun admin di atas.
